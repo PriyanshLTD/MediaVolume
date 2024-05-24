@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-media-volume",
+  "version": "0.0.1",
+  "description": "Media volume data helper",
+  "cordova": {
+    "id": "cordova-plugin-media-volume",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Priyansh",
+  "license": "ISC"
+}
